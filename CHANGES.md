@@ -1,4 +1,16 @@
-# 0.3.0 (git master)
+# 0.9.2 (March 8 2017)
+
+* Updated noflo-webaudio to 0.2.2
+
+# 0.9.1 (March 8 2017)
+
+* Updated NoFlo to 0.8.3
+
+# 0.9.0 (March 8 2017)
+
+* Updated NoFlo to 0.8.x
+
+# 0.8.0 (January 16 2017)
 
 * Switched build from component.io to webpack
 * Installing all dependencies via NPM
